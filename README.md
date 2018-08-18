@@ -2,4 +2,4 @@
 
 Show an image in readme.md
 
-![](noteOutline02.png)
+![alt text](noteOutline02.png) "This is a picture"
