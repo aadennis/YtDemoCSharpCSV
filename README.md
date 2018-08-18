@@ -1,5 +1,5 @@
-# Demo a picture
+# Show an image in readme.md
 
-Demo a picture
+Show an image in readme.md
 
 ![](noteOutline02.png)
