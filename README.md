@@ -2,4 +2,4 @@
 
 Demo a picture
 
-./xx.png
+![](noteOutline02.png)
